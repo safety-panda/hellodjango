@@ -5,8 +5,7 @@ __pycache__
 
 # Env
 .env
-myvenv/
-venv/
+hellodjango-venvvenv/
 
 # Database
 db.sqlite3
